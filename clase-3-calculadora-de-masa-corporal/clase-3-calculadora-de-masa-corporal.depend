@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715803081 source:c:\users\monxo\desktop\franco-programa\c++\clases-atlacademy\clase-3-calculadora-de-masa-corporal\main.cpp
+	<iostream>
+	<math.h>
+
